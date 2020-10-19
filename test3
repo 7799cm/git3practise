@@ -1,0 +1,5 @@
+this is code for division 
+a = 6
+b = 3 
+c = a\b = 2
+the output is the division of two variables 
